@@ -1,0 +1,18 @@
+﻿[
+  {
+    "outputFile": "../styles/main.css",
+    "inputFile": "../styles/main.less"
+  },
+  {
+    "outputFile": "styles/main.css",
+    "inputFile": "styles/main.less"
+  },
+  {
+    "outputFile": "styles/responsive.css",
+    "inputFile": "styles/responsive.less"
+  },
+  {
+    "outputFile": "styles/teste.css",
+    "inputFile": "styles/teste.less"
+  }
+]
